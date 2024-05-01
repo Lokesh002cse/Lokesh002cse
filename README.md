@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/lokeshkmr2511">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 <a href="https://www.instagram.com/_itzzlokesh_007/" target="_blank">
- 
+
  <img src="https://skillicons.dev/icons?i=instagram" /> 
 </a>
 
