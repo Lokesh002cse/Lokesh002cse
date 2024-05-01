@@ -71,7 +71,7 @@
 - Backend as a Service(BaaS)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
 </p>
 
