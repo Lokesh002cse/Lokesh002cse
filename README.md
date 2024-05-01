@@ -37,6 +37,12 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/lokeshkmr2511">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.instagram.com/_itzzlokesh_007/" target="_blank">
+ 
+ <img src="https://skillicons.dev/icons?i=instagram" /> 
+</a>
+
+   
   </a>
 </p>
 
@@ -63,7 +69,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,py" />
    
-     </a>
+    
+   
+  </a>
 </p>
   
 
@@ -74,6 +82,14 @@
     
    
   </a>
+</p>
+
+
+- AI/ML
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,tensorflow," />
+      </a>
 </p>
 
 - Backend as a Service(BaaS)
