@@ -1,7 +1,7 @@
  
 
 <h1 align="center">Hi 👋, I'm Lokesh Kumar </h1>
-<h3 align="center">A flutter  and Software Developer from India</h3>
+<h3 align="center">A Software Developer</h3>
 </p>
  
 <div align="center">
