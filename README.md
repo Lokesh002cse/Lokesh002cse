@@ -9,7 +9,7 @@
  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />&nbsp;
  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"  height="50" />&nbsp;
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />&nbsp;
+ 
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />&nbsp;
 </div>
 
