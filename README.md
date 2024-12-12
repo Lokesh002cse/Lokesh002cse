@@ -57,12 +57,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Mobile App Development
+- Frontend  Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs" />
   </a>
 </p>
+
+
 
 - DSA
 <p align="left">
